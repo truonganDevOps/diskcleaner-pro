@@ -28,13 +28,14 @@
 - [Hướng dẫn sử dụng](#-hướng-dẫn-sử-dụng)
 - [Kích hoạt Pro](#-kích-hoạt-pro)
 - [Ngôn ngữ](#-ngôn-ngữ)
+- [Disk Manager](#-disk-manager)
 - [Liên hệ & hỗ trợ](#-liên-hệ--hỗ-trợ)
 
 ---
 
 ## 🎯 Giới thiệu
 
-**Tanovix DiskCleaner Pro** là công cụ quản lý ổ đĩa toàn diện dành cho Windows 10/11, được xây dựng trên nền .NET 8 WPF. Phần mềm tích hợp 11 công cụ trong một giao diện tối giản, giúp bạn:
+**Tanovix DiskCleaner Pro** là công cụ quản lý ổ đĩa toàn diện dành cho Windows 10/11, được xây dựng trên nền .NET 8 WPF. Phần mềm tích hợp 12 công cụ trong một giao diện tối giản, giúp bạn:
 
 - Dọn sạch file rác, cache và dữ liệu thừa
 - Phân tích cấu trúc thư mục để tìm nguyên nhân đầy ổ đĩa
@@ -57,6 +58,7 @@
 | 🛡️ **Diệt virus** | Quét nhanh các thư mục quan trọng phát hiện mã độc | **Pro** |
 | ⚡ **Tối ưu hệ thống** | Giải phóng RAM, tối ưu Power Plan, điều chỉnh Visual Effects | **Pro** |
 | 💚 **Điểm sức khỏe** | Chấm điểm hệ thống theo 5 tiêu chí | **Pro** |
+| 💾 **Disk Manager** | Xem partition, shrink/extend/tạo/xóa phân vùng (dùng diskpart) | Free |
 
 ---
 
@@ -240,6 +242,28 @@ Nhấn **Run Check** để cập nhật điểm.
 
 ---
 
+### 💾 Disk Manager
+
+Xem và quản lý phân vùng ổ đĩa. Yêu cầu chạy với quyền Administrator để thực hiện thao tác ghi.
+
+**Đọc thông tin:**
+- Thanh màu trực quan hiển thị bố cục partition theo tỉ lệ thực
+- Click vào ô màu để chọn partition tương ứng trong danh sách
+- Thông tin: Drive letter, Label, File System, Type, Size, Free, Used%
+
+**Các thao tác:**
+
+| Nút | Điều kiện | Chức năng |
+|-----|-----------|-----------|
+| 🔧 Shrink | Partition có drive letter, không phải system | Thu nhỏ partition (nhập MB) |
+| ⬌ Extend | Partition có drive letter, không phải system | Mở rộng vào vùng unallocated liền kề |
+| ➕ Create | Chọn vùng Unallocated | Tạo partition NTFS mới |
+| 🗑️ Delete | Partition có drive letter, không phải system | Xóa partition (gõ DELETE để xác nhận) |
+
+> ⚠️ System, EFI và Recovery partition bị khóa — không thể xóa hay sửa.
+
+---
+
 ## 🔑 Kích hoạt Pro
 
 ![License](https://tanovix-diskcleaner.pages.dev/screenshots/12_license.png)
@@ -268,7 +292,7 @@ Các tính năng Pro yêu cầu license key. Để kích hoạt:
 Phần mềm hỗ trợ 8 ngôn ngữ. Để đổi ngôn ngữ:
 
 1. Mở phần mềm → góc dưới-trái → dropdown **Language**
-2. Chọn ngôn ngữ → restart phần mềm để áp dụng
+2. Chọn ngôn ngữ → áp dụng ngay lập tức, không cần restart
 
 | Mã | Ngôn ngữ |
 |----|---------|
@@ -306,7 +330,7 @@ dotnet build -c Release --nologo
 dotnet publish -c Release -r win-x64 --self-contained false -o publish\DiskCleaner
 
 # Build installer (yêu cầu Inno Setup 6)
-& "$env:LOCALAPPDATA\Programs\Inno Setup 6\ISCC.exe" installer.iss
+& "D:\Tools\InnoSetup\iscc.exe" installer.iss
 # Output: Output\DiskCleaner_Setup_v2.0.0.exe
 ```
 
