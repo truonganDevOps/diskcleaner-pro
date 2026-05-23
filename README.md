@@ -244,6 +244,8 @@ Nhấn **Run Check** để cập nhật điểm.
 
 ### 💾 Disk Manager
 
+![Disk Manager](https://tanovix-diskcleaner.pages.dev/screenshots/13_disk_manager.png)
+
 Xem và quản lý phân vùng ổ đĩa. Yêu cầu chạy với quyền Administrator để thực hiện thao tác ghi.
 
 **Đọc thông tin:**
