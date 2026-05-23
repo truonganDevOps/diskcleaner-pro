@@ -358,6 +358,8 @@ Nhấn **Run Check** để chạy phân tích mới nhất.
 
 **Menu:** Disk Manager
 
+![Disk Manager](https://tanovix-diskcleaner.pages.dev/screenshots/13_disk_manager.png)
+
 Xem toàn bộ phân vùng ổ đĩa theo dạng trực quan và thực hiện các thao tác quản lý partition.
 
 > **Yêu cầu:** Chạy phần mềm với quyền **Administrator** để dùng các nút Shrink / Extend / Create / Delete. Nếu không có quyền, các nút bị vô hiệu hóa và hiển thị cảnh báo màu vàng.
