@@ -80,7 +80,7 @@
 
 ### Bước 1 — Tải installer
 
-[![Download](https://img.shields.io/badge/⬇_Tải_xuống-DiskCleaner_Setup_v2.0.0.exe-00b4d8?style=for-the-badge)](https://github.com/truonganDevOps/diskcleaner-pro/releases/latest/download/DiskCleaner_Setup_v2.0.0.exe)
+[![Download](https://img.shields.io/badge/⬇_Tải_xuống-DiskCleaner_Setup_v2.0.0.1.exe-00b4d8?style=for-the-badge)](https://github.com/truonganDevOps/diskcleaner-pro/releases/latest/download/DiskCleaner_Setup_v2.0.0.exe)
 
 ### Bước 2 — Cài đặt
 
