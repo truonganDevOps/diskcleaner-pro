@@ -13,7 +13,7 @@
     <FileVersion>2.0.0.0</FileVersion>
     <Company>TruongAn Dev</Company>
     <Product>Codeoxi DiskCleaner Pro</Product>
-    <Copyright>Copyright © 2025 TruongAn Dev</Copyright>
+    <Copyright>Copyright © 2026 TruongAnDev</Copyright>
     <StartupObject>DiskCleanerPro.App</StartupObject>
     <ApplicationIcon>Resources\logo.ico</ApplicationIcon>
   </PropertyGroup>
