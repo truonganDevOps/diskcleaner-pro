@@ -4,8 +4,8 @@
 
 #define MyAppName      "DiskCleaner Pro"
 #define MyAppVersion   "2.0.0"
-#define MyAppPublisher "TruongAn Dev"
-#define MyAppURL       "https://truongan.dev/diskcleaner-pro"
+#define MyAppPublisher "TruongAnDev"
+#define MyAppURL       "https://codeoxi-diskcleaner.pages.dev"
 #define MyAppExeName   "DiskCleaner.exe"
 ; Same AppId as the Python version so upgrading replaces it cleanly
 #define MyAppId        "{{B7E2A4F1-DC33-4C8E-9A6B-TruongAnDev}"
