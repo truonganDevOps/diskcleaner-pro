@@ -12,7 +12,7 @@
     <AssemblyVersion>2.0.0.0</AssemblyVersion>
     <FileVersion>2.0.0.0</FileVersion>
     <Company>TruongAn Dev</Company>
-    <Product>Tanovix DiskCleaner Pro</Product>
+    <Product>Codeoxi DiskCleaner Pro</Product>
     <Copyright>Copyright © 2025 TruongAn Dev</Copyright>
     <StartupObject>DiskCleanerPro.App</StartupObject>
     <ApplicationIcon>Resources\logo.ico</ApplicationIcon>

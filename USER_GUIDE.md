@@ -1,8 +1,8 @@
-# Tanovix DiskCleaner Pro — Hướng dẫn sử dụng
+# Codeoxi DiskCleaner Pro — Hướng dẫn sử dụng
 
 **Phiên bản:** 2.0.0  
 **Hệ điều hành:** Windows 10/11 (64-bit)  
-**Nhà phát triển:** TruongAn Dev — Tanovix
+**Nhà phát triển:** TruongAn Dev — Codeoxi
 
 ---
 
@@ -28,7 +28,7 @@
 
 **Menu:** Tổng quan
 
-![Tổng quan](https://tanovix-diskcleaner.pages.dev/screenshots/01_tong_quan.png)
+![Tổng quan](https://codeoxi-diskcleaner.pages.dev/screenshots/01_tong_quan.png)
 
 Màn hình chính hiển thị mức sử dụng ổ đĩa của tất cả các ổ trên máy tính.
 
@@ -54,7 +54,7 @@ Màn hình chính hiển thị mức sử dụng ổ đĩa của tất cả các
 
 **Menu:** Phân tích lưu trữ
 
-![Phân tích lưu trữ](https://tanovix-diskcleaner.pages.dev/screenshots/02_phan_tich.png)
+![Phân tích lưu trữ](https://codeoxi-diskcleaner.pages.dev/screenshots/02_phan_tich.png)
 
 Phân tích chi tiết thư mục nào đang chiếm nhiều dung lượng nhất.
 
@@ -76,7 +76,7 @@ Phân tích chi tiết thư mục nào đang chiếm nhiều dung lượng nhấ
 
 **Menu:** Dọn dẹp
 
-![Dọn dẹp hệ thống](https://tanovix-diskcleaner.pages.dev/screenshots/03_don_dep.png)
+![Dọn dẹp hệ thống](https://codeoxi-diskcleaner.pages.dev/screenshots/03_don_dep.png)
 
 Xóa các file rác được Windows và ứng dụng tạo ra, không ảnh hưởng đến dữ liệu cá nhân.
 
@@ -107,7 +107,7 @@ Xóa các file rác được Windows và ứng dụng tạo ra, không ảnh hư
 
 **Menu:** Gỡ phần mềm
 
-![Gỡ cài đặt phần mềm](https://tanovix-diskcleaner.pages.dev/screenshots/04_go_phan_mem.png)
+![Gỡ cài đặt phần mềm](https://codeoxi-diskcleaner.pages.dev/screenshots/04_go_phan_mem.png)
 
 Quản lý và gỡ cài đặt các ứng dụng trên máy tính.
 
@@ -132,7 +132,7 @@ Quản lý và gỡ cài đặt các ứng dụng trên máy tính.
 
 **Menu:** Tìm file trùng
 
-![Tìm file trùng lặp](https://tanovix-diskcleaner.pages.dev/screenshots/05_tim_file.png)
+![Tìm file trùng lặp](https://codeoxi-diskcleaner.pages.dev/screenshots/05_tim_file.png)
 
 Tìm và xóa file trùng lặp hoặc file lớn không cần thiết.
 
@@ -159,7 +159,7 @@ Tìm các file có nội dung giống hệt nhau (so sánh hash) trong thư mụ
 
 **Menu:** Quyền riêng tư
 
-![Quyền riêng tư](https://tanovix-diskcleaner.pages.dev/screenshots/06_quyen_rieng_tu.png)
+![Quyền riêng tư](https://codeoxi-diskcleaner.pages.dev/screenshots/06_quyen_rieng_tu.png)
 
 Xóa lịch sử và dấu vết hoạt động để bảo vệ thông tin cá nhân.
 
@@ -190,7 +190,7 @@ Xóa lịch sử và dấu vết hoạt động để bảo vệ thông tin cá 
 
 **Menu:** Junction Link
 
-![Junction Link](https://tanovix-diskcleaner.pages.dev/screenshots/07_junction.png)
+![Junction Link](https://codeoxi-diskcleaner.pages.dev/screenshots/07_junction.png)
 
 Di chuyển thư mục sang ổ khác và tạo liên kết trong suốt — ứng dụng không biết thư mục đã bị di chuyển.
 
@@ -224,7 +224,7 @@ Nhấn **Use as Source** để dùng thư mục đó làm nguồn.
 
 **Menu:** Khởi động Windows
 
-![Khởi động Windows](https://tanovix-diskcleaner.pages.dev/screenshots/08_khoi_dong.png)
+![Khởi động Windows](https://codeoxi-diskcleaner.pages.dev/screenshots/08_khoi_dong.png)
 
 Quản lý các chương trình tự động chạy khi Windows khởi động.
 
@@ -262,7 +262,7 @@ Tạo lịch tự động dọn dẹp định kỳ — phần mềm sẽ tự ch
 
 **Menu:** Diệt virus
 
-![Diệt virus](https://tanovix-diskcleaner.pages.dev/screenshots/09_diet_virus.png)
+![Diệt virus](https://codeoxi-diskcleaner.pages.dev/screenshots/09_diet_virus.png)
 
 Quét file và tiến trình để phát hiện phần mềm độc hại.
 
@@ -294,7 +294,7 @@ Tích hợp trực tiếp với API VirusTotal. Upload file và nhận kết qu�
 
 **Menu:** Tối ưu hệ thống
 
-![Tối ưu hệ thống](https://tanovix-diskcleaner.pages.dev/screenshots/10_toi_uu.png)
+![Tối ưu hệ thống](https://codeoxi-diskcleaner.pages.dev/screenshots/10_toi_uu.png)
 
 Tinh chỉnh RAM, power plan, hiệu ứng đồ họa và services để cải thiện hiệu năng.
 
@@ -327,7 +327,7 @@ Xem và quản lý các Windows services đang chạy, có thể tắt các serv
 
 **Menu:** Kiểm tra hệ thống
 
-![Kiểm tra hệ thống](https://tanovix-diskcleaner.pages.dev/screenshots/11_kiem_tra.png)
+![Kiểm tra hệ thống](https://codeoxi-diskcleaner.pages.dev/screenshots/11_kiem_tra.png)
 
 Phân tích toàn diện tình trạng máy tính và đưa ra điểm số + khuyến nghị.
 
@@ -358,7 +358,7 @@ Nhấn **Run Check** để chạy phân tích mới nhất.
 
 **Menu:** Disk Manager
 
-![Disk Manager](https://tanovix-diskcleaner.pages.dev/screenshots/13_disk_manager.png)
+![Disk Manager](https://codeoxi-diskcleaner.pages.dev/screenshots/13_disk_manager.png)
 
 Xem toàn bộ phân vùng ổ đĩa theo dạng trực quan và thực hiện các thao tác quản lý partition.
 
@@ -419,7 +419,7 @@ Xem toàn bộ phân vùng ổ đĩa theo dạng trực quan và thực hiện c
 
 **Menu:** Nhấn nút **Activate License** ở sidebar dưới cùng
 
-![License & Activation](https://tanovix-diskcleaner.pages.dev/screenshots/12_license.png)
+![License & Activation](https://codeoxi-diskcleaner.pages.dev/screenshots/12_license.png)
 
 Quản lý license và so sánh các gói tính năng.
 
@@ -472,7 +472,7 @@ Quản lý license và so sánh các gói tính năng.
 
 ## Thông tin kỹ thuật
 
-- **Phiên bản:** Tanovix DiskCleaner Pro v2.0.0
+- **Phiên bản:** Codeoxi DiskCleaner Pro v2.0.0
 - **Framework:** .NET 8 WPF, Windows 64-bit
 - **SHA-256 (DLL):** `68bc8a4dc6a5fda806faa7013d84364bce08d8ce185339282df884b07dd8f1b1`
 - **VirusTotal:** 0/71 antivirus engines detected (clean)
@@ -481,4 +481,4 @@ Quản lý license và so sánh các gói tính năng.
 
 ---
 
-*Tanovix DiskCleaner Pro — Developed by TruongAn Dev*
+*Codeoxi DiskCleaner Pro — Developed by TruongAn Dev*

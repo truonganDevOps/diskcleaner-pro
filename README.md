@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧹 Tanovix DiskCleaner Pro
+# 🧹 Codeoxi DiskCleaner Pro
 
 **Phần mềm dọn dẹp, phân tích và tối ưu ổ đĩa Windows**
 
@@ -9,11 +9,11 @@
 ![Framework](https://img.shields.io/badge/.NET-8.0-purple?style=flat-square)
 ![License](https://img.shields.io/badge/license-Proprietary-orange?style=flat-square)
 
-[⬇ Tải xuống](#-cài-đặt) · [🌐 Landing Page](https://tanovix-diskcleaner.pages.dev) · [📧 Liên hệ](mailto:truongandesignerwp@gmail.com)
+[⬇ Tải xuống](#-cài-đặt) · [🌐 Landing Page](https://codeoxi-diskcleaner.pages.dev) · [📧 Liên hệ](mailto:truongandesignerwp@gmail.com)
 
 ---
 
-![Dashboard](https://tanovix-diskcleaner.pages.dev/screenshots/01_tong_quan.png)
+![Dashboard](https://codeoxi-diskcleaner.pages.dev/screenshots/01_tong_quan.png)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ## 🎯 Giới thiệu
 
-**Tanovix DiskCleaner Pro** là công cụ quản lý ổ đĩa toàn diện dành cho Windows 10/11, được xây dựng trên nền .NET 8 WPF. Phần mềm tích hợp 12 công cụ trong một giao diện tối giản, giúp bạn:
+**Codeoxi DiskCleaner Pro** là công cụ quản lý ổ đĩa toàn diện dành cho Windows 10/11, được xây dựng trên nền .NET 8 WPF. Phần mềm tích hợp 12 công cụ trong một giao diện tối giản, giúp bạn:
 
 - Dọn sạch file rác, cache và dữ liệu thừa
 - Phân tích cấu trúc thư mục để tìm nguyên nhân đầy ổ đĩa
@@ -106,7 +106,7 @@ Phần mềm yêu cầu quyền Administrator để truy cập file hệ thống
 
 Màn hình chính hiển thị tất cả ổ đĩa trên máy:
 
-![Tổng quan](https://tanovix-diskcleaner.pages.dev/screenshots/01_tong_quan.png)
+![Tổng quan](https://codeoxi-diskcleaner.pages.dev/screenshots/01_tong_quan.png)
 
 - **Thanh tiến trình màu vàng**: dung lượng đã dùng (chuyển đỏ khi > 85%)
 - **Đã dùng / Còn trống / Tổng cộng**: số liệu chi tiết từng ổ
@@ -116,7 +116,7 @@ Màn hình chính hiển thị tất cả ổ đĩa trên máy:
 
 ### 📊 Phân tích lưu trữ
 
-![Phân tích](https://tanovix-diskcleaner.pages.dev/screenshots/02_phan_tich.png)
+![Phân tích](https://codeoxi-diskcleaner.pages.dev/screenshots/02_phan_tich.png)
 
 1. Nhấn **Browse** để chọn thư mục cần phân tích (hoặc nhập đường dẫn trực tiếp)
 2. Nhấn **Scan** — quét đệ quy toàn bộ thư mục
@@ -126,7 +126,7 @@ Màn hình chính hiển thị tất cả ổ đĩa trên máy:
 
 ### 🧹 Dọn dẹp hệ thống
 
-![Dọn dẹp](https://tanovix-diskcleaner.pages.dev/screenshots/03_don_dep.png)
+![Dọn dẹp](https://codeoxi-diskcleaner.pages.dev/screenshots/03_don_dep.png)
 
 1. Tick chọn các loại file muốn xóa:
    - **Windows Temp** — file tạm của hệ thống
@@ -146,7 +146,7 @@ Màn hình chính hiển thị tất cả ổ đĩa trên máy:
 
 ### 🗑️ Gỡ phần mềm *(Pro)*
 
-![Gỡ phần mềm](https://tanovix-diskcleaner.pages.dev/screenshots/04_go_phan_mem.png)
+![Gỡ phần mềm](https://codeoxi-diskcleaner.pages.dev/screenshots/04_go_phan_mem.png)
 
 1. Danh sách tự động tải tất cả ứng dụng đã cài
 2. Click chọn ứng dụng muốn gỡ
@@ -157,7 +157,7 @@ Màn hình chính hiển thị tất cả ổ đĩa trên máy:
 
 ### 🔍 Tìm file trùng & file lớn *(Pro)*
 
-![Tìm file](https://tanovix-diskcleaner.pages.dev/screenshots/05_tim_file.png)
+![Tìm file](https://codeoxi-diskcleaner.pages.dev/screenshots/05_tim_file.png)
 
 **Tab Large Files:**
 1. Nhấn **Scan** để tìm các file lớn nhất trên máy
@@ -172,7 +172,7 @@ Màn hình chính hiển thị tất cả ổ đĩa trên máy:
 
 ### 🔒 Quyền riêng tư *(Pro)*
 
-![Quyền riêng tư](https://tanovix-diskcleaner.pages.dev/screenshots/06_quyen_rieng_tu.png)
+![Quyền riêng tư](https://codeoxi-diskcleaner.pages.dev/screenshots/06_quyen_rieng_tu.png)
 
 Chọn loại dữ liệu muốn xóa:
 - Recent Documents, Run History, Search History
@@ -185,7 +185,7 @@ Nhấn **Clean** để xóa toàn bộ dữ liệu đã chọn.
 
 ### 🔗 Junction Link Manager
 
-![Junction](https://tanovix-diskcleaner.pages.dev/screenshots/07_junction.png)
+![Junction](https://codeoxi-diskcleaner.pages.dev/screenshots/07_junction.png)
 
 Dùng để di chuyển thư mục từ ổ C sang ổ khác mà không ảnh hưởng đến ứng dụng:
 
@@ -199,7 +199,7 @@ Dùng để di chuyển thư mục từ ổ C sang ổ khác mà không ảnh h�
 
 ### 🚀 Khởi động Windows *(Pro)*
 
-![Startup](https://tanovix-diskcleaner.pages.dev/screenshots/08_khoi_dong.png)
+![Startup](https://codeoxi-diskcleaner.pages.dev/screenshots/08_khoi_dong.png)
 
 1. Danh sách hiển thị tất cả chương trình chạy khi Windows khởi động
 2. Toggle **Enable/Disable** để tắt/bật từng mục
@@ -209,7 +209,7 @@ Dùng để di chuyển thư mục từ ổ C sang ổ khác mà không ảnh h�
 
 ### 🛡️ Diệt virus *(Pro)*
 
-![Antivirus](https://tanovix-diskcleaner.pages.dev/screenshots/09_diet_virus.png)
+![Antivirus](https://codeoxi-diskcleaner.pages.dev/screenshots/09_diet_virus.png)
 
 1. Chọn kiểu quét: **Quick Scan** (nhanh) hoặc **Full Scan** (toàn bộ)
 2. Nhấn **Scan** — quét các thư mục quan trọng
@@ -219,7 +219,7 @@ Dùng để di chuyển thư mục từ ổ C sang ổ khác mà không ảnh h�
 
 ### ⚡ Tối ưu hệ thống *(Pro)*
 
-![Optimizer](https://tanovix-diskcleaner.pages.dev/screenshots/10_toi_uu.png)
+![Optimizer](https://codeoxi-diskcleaner.pages.dev/screenshots/10_toi_uu.png)
 
 - **Free RAM** — giải phóng bộ nhớ RAM đang bị cache
 - **Power Plan** — chuyển sang High Performance để tăng tốc
@@ -229,7 +229,7 @@ Dùng để di chuyển thư mục từ ổ C sang ổ khác mà không ảnh h�
 
 ### 💚 Điểm sức khỏe *(Pro)*
 
-![Health](https://tanovix-diskcleaner.pages.dev/screenshots/11_kiem_tra.png)
+![Health](https://codeoxi-diskcleaner.pages.dev/screenshots/11_kiem_tra.png)
 
 Chấm điểm hệ thống theo 5 tiêu chí (0–100):
 - **Disk Space** — dung lượng còn trống
@@ -244,7 +244,7 @@ Nhấn **Run Check** để cập nhật điểm.
 
 ### 💾 Disk Manager
 
-![Disk Manager](https://tanovix-diskcleaner.pages.dev/screenshots/13_disk_manager.png)
+![Disk Manager](https://codeoxi-diskcleaner.pages.dev/screenshots/13_disk_manager.png)
 
 Xem và quản lý phân vùng ổ đĩa. Yêu cầu chạy với quyền Administrator để thực hiện thao tác ghi.
 
@@ -268,7 +268,7 @@ Xem và quản lý phân vùng ổ đĩa. Yêu cầu chạy với quyền Admini
 
 ## 🔑 Kích hoạt Pro
 
-![License](https://tanovix-diskcleaner.pages.dev/screenshots/12_license.png)
+![License](https://codeoxi-diskcleaner.pages.dev/screenshots/12_license.png)
 
 Các tính năng Pro yêu cầu license key. Để kích hoạt:
 
@@ -312,7 +312,7 @@ Phần mềm hỗ trợ 8 ngôn ngữ. Để đổi ngôn ngữ:
 ## 📞 Liên hệ & hỗ trợ
 
 - **Email:** [truongandesignerwp@gmail.com](mailto:truongandesignerwp@gmail.com)
-- **Website:** [tanovix-diskcleaner.pages.dev](https://tanovix-diskcleaner.pages.dev)
+- **Website:** [codeoxi-diskcleaner.pages.dev](https://codeoxi-diskcleaner.pages.dev)
 - **Issues:** [GitHub Issues](https://github.com/truonganDevOps/diskcleaner-pro/issues)
 
 ---
@@ -340,6 +340,6 @@ dotnet publish -c Release -r win-x64 --self-contained false -o publish\DiskClean
 
 <div align="center">
 
-Made with ❤️ by **TruongAn Dev** — [Tanovix](https://tanovix-diskcleaner.pages.dev)
+Made with ❤️ by **TruongAn Dev** — [Codeoxi](https://codeoxi-diskcleaner.pages.dev)
 
 </div>
