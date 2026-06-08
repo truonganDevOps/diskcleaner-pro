@@ -80,11 +80,11 @@
 
 ### Bước 1 — Tải installer
 
-[![Download](https://img.shields.io/badge/⬇_Tải_xuống-DiskCleaner_Setup_v2.0.0.1.exe-00b4d8?style=for-the-badge)](https://github.com/truonganDevOps/diskcleaner-pro/releases/latest/download/DiskCleaner_Setup_v2.0.0.1.exe)
+[![Download](https://img.shields.io/badge/⬇_Tải_xuống-DiskCleaner__Setup.exe-00b4d8?style=for-the-badge)](https://github.com/truonganDevOps/diskcleaner-pro/releases/latest/download/DiskCleaner_Setup.exe)
 
 ### Bước 2 — Cài đặt
 
-1. Double-click vào file `DiskCleaner_Setup_v2.0.0.exe`
+1. Double-click vào file `DiskCleaner_Setup.exe`
 2. Windows SmartScreen có thể hiện cảnh báo **"Windows protected your PC"** → click **More info** → **Run anyway**
    > Cảnh báo này xuất hiện do phần mềm chưa có code signing certificate. File hoàn toàn an toàn.
 3. Chấp nhận **UAC** (User Account Control) để installer chạy với quyền Administrator
@@ -333,7 +333,7 @@ dotnet publish -c Release -r win-x64 --self-contained false -o publish\DiskClean
 
 # Build installer (yêu cầu Inno Setup 6)
 & "D:\Tools\InnoSetup\iscc.exe" installer.iss
-# Output: Output\DiskCleaner_Setup_v2.0.0.exe
+# Output: Output\DiskCleaner_Setup.exe
 ```
 
 ---
